@@ -1,3 +1,1 @@
-Testing some text 
-
-Second Test 
+testing some text.
